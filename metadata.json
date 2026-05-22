@@ -1,0 +1,6 @@
+{
+  "name": "Hermeneutic Story Weaver",
+  "description": "An iterative story generation app using expert AI agents in a hermeneutic cycle to research, draft, critique, and refine narratives based on user cues.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
